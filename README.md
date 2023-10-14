@@ -6,10 +6,15 @@ Estimate uranium deposits by observed indicators, such as
 2) undergraoun water flow level
 3) soil composition 
 4) weather
-5) height of the surface
+
+   4.1 historical weather api [link](https://open-meteo.com/en/docs/historical-weather-api#location_mode=csv_coordinates&timezone=Asia%2FBangkok)
+6) height of the surface
    
    5.1 google maps terrarian http://maps.google.com
 7) earthquaqes
 
+Uranium deposits
 
+1) usa [link1](https://www.arcgis.com/home/item.html?id=1ddc80916bb742cfb439fef2cfe56b8d), [link2](https://www.sciencebase.gov/catalog/item/5d1ce678e4b0941bde64cd71)
+2) 
 
