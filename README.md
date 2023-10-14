@@ -8,12 +8,12 @@ Estimate uranium deposits by observed indicators, such as
 4) weather
 
    4.1 historical weather api [link](https://open-meteo.com/en/docs/historical-weather-api#location_mode=csv_coordinates&timezone=Asia%2FBangkok)
-6) height of the surface
+5) height of the surface
    
    5.1 google maps terrarian http://maps.google.com
-7) earthquaqes
+6) earthquaqes
 
-   7.1 opendatasoft [link](https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/table/?location=8,41.81636,46.7688&basemap=jawg.light)
+   6.1 opendatasoft [link](https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/table/?location=8,41.81636,46.7688&basemap=jawg.light)
    
 Uranium deposits
 
