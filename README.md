@@ -19,7 +19,7 @@ Uranium deposits
 
 1) usa [link1](https://www.arcgis.com/home/item.html?id=1ddc80916bb742cfb439fef2cfe56b8d), [link2](https://www.sciencebase.gov/catalog/item/5d1ce678e4b0941bde64cd71)
 2) australia only png [link](https://www.ga.gov.au/digital-publication/aecr2021/uranium-and-thorium)
-3) 
+3) canada no areas [link](https://world-nuclear.org/information-library/country-profiles/countries-a-f/canada-uranium.aspx)
 
 Thorium deposits
 1) australia only png [link](https://www.ga.gov.au/digital-publication/aecr2021/uranium-and-thorium)
