@@ -27,6 +27,9 @@ At first stage we define list of domains, from where we can receive the data
 With each source of data there are a lot of problems, which in general don't allow to
 create dataset with proper quality
 
+#### Soil composition 
+
+
 ### Results
 
 Research shows, that it is very difficult and sometimes almost impossible 
@@ -34,4 +37,6 @@ to create dataset based on quasi-opened data.
 The is no county in the world that openly distributes the strategic resources data.
 Furthemore, it's not clearn how to transfer data from resources maps to discrete grid
 without big losses
+
+The data sources, where there were no problems, are map of earthqueaqes and height map
 
