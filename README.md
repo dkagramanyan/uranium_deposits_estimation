@@ -39,9 +39,7 @@ more types
 If we use the typical soil composition maps, we will see that there is no unification. There are soil types, that
 Armenia has and Australia doesn't and vice versa. 
 
-![biba](images/soil_type_arm.png)
-
-<img src="images/soil_type_au.jpg" width="300" />
+![biba](images/soil_type_arm.png)<img src="images/soil_type_au.jpg" width="300" />
 
 Also it is unclear how to transfer the soil maps from png to discrete system. 
 
