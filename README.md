@@ -34,13 +34,14 @@ The map contains good level of global detalization, but there are a lot of probl
 in small regions. For example, for Armenia there are only 4 types of soils, but in reality there are 
 more types
 
-
-![biba](images/soil_types.jpg)
+<img src="images/soil_types.jpg" width="300" />
 
 If we use the typical soil composition maps, we will see that there is no unification. There are soil types, that
 Armenia has and Australia doesn't and vice versa. 
 
-![biba](images/soil_type_arm.png) ![biba](images/soil_type_au.jpg)
+![biba](images/soil_type_arm.png)
+
+<img src="images/soil_type_au.jpg" width="300" />
 
 Also it is unclear how to transfer the soil maps from png to discrete system. 
 
