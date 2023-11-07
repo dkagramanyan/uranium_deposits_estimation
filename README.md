@@ -45,7 +45,22 @@ Also it is unclear how to transfer the soil maps from png to discrete system.
 
 #### Height of the surface
 
+The first idea to get the height maps was using using google maps, but was too
+complicated to understand the google maps api 
 
+Then was proposed to use typical height map, where the pixel with value 0 is 0 level 
+above the ocean and the pixel with value 255 is the highest point of the country. 
+
+The main advantage of this method is that the map is already descretised and there is
+no need to transfer data manually
+
+<img src="images/height_au.png" width="300" />
+
+#### Earthquaqes
+
+In general, there is one good earthquaqes map from 
+
+<img src="images/soil_type_au.jpg" width="300" />
 
 ### Results
 
