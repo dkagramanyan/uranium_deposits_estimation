@@ -58,9 +58,15 @@ no need to transfer data manually
 
 #### Earthquaqes
 
-In general, there is one good earthquaqes map from 
+In general, there is one good earthquaqes map from OpendataSoft, but there is one
+disadvantage - on the map are displayed the only the strongest earthquaqes, which 
+are not very many
 
-<img src="images/soil_type_au.jpg" width="300" />
+#### Uranium deposits
+
+As the uranium and other radioactive deposits are strategic resources, there are no 
+counties who prove non-zero size datasets about the sizes and locations of deposits. 
+In genera l
 
 ### Results
 
