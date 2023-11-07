@@ -66,7 +66,12 @@ are not very many
 
 As the uranium and other radioactive deposits are strategic resources, there are no 
 counties who prove non-zero size datasets about the sizes and locations of deposits. 
-In genera l
+In general, countries provide handmade maps, where the deposits are marked. 
+
+Unfortunately, if you find any suitable dataset or map, you will not be able to 
+evaluate the real size of deposit. It may be, that on big area there a 1 gram of 
+uranium ore or on small area almost endless amount of ore. 
+
 
 ### Results
 
