@@ -78,7 +78,7 @@ To use the map's like data we need to transfer data from png image to some discr
 grid. The first idea was to  create grid, transfer it in map and then mark
 the coordinates of deposits. 
 
-the experiment shows that this method is very time-consuming and has low accuracy 
+The experiment shows that this method is very time-consuming and has low accuracy 
 as the human could make mistake 
 
 <img src="images/uranium_grid.png" width="300" />
@@ -92,5 +92,5 @@ The is no county in the world that openly distributes the strategic resources da
 Furthemore, it's not clearn how to transfer data from resources maps to discrete grid
 without big losses
 
-The data sources, where there were no problems, are map of earthqueaqes and height map
-
+Also it is complicated to create dataset from more then 3 domains. As a result - 
+dataset wasn't created.
