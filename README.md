@@ -60,7 +60,7 @@ no need to transfer data manually
 
 In general, there is one good earthquaqes map from OpendataSoft, but there is one
 disadvantage - on the map are displayed the only the strongest earthquaqes, which 
-are not very many
+are not very much. 
 
 #### Uranium deposits
 
