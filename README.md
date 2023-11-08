@@ -70,7 +70,18 @@ In general, countries provide handmade maps, where the deposits are marked.
 
 Unfortunately, if you find any suitable dataset or map, you will not be able to 
 evaluate the real size of deposit. It may be, that on big area there a 1 gram of 
-uranium ore or on small area almost endless amount of ore. 
+uranium ore or on small area almost endless amount of ore
+
+#### Discretization 
+
+To use the map's like data we need to transfer data from png image to some discrete
+grid. The first idea was to  create grid, transfer it in map and then mark
+the coordinates of deposits. 
+
+the experiment shows that this method is very time-consuming and has low accuracy 
+as the human could make mistake 
+
+<img src="images/uranium_grid.png" width="300" />
 
 
 ### Results
